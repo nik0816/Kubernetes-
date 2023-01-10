@@ -6,7 +6,7 @@ To setup Highly available multimaster kubernetes cluster using kubeadm on the ub
 
 For this setup we are going to use aws ec2 instances.
 
-With stacked control plane nodes. This approach requires less infrastructure. The etcd members and control plane nodes are co-located.
+With stacked control plane nodes. This approach requires less infrastructure. The etcd members and control plane nodes are co-located.For reading more about this [see here](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/ha-topology/#stacked-etcd-topology) 
 
 The following documentation will help you with creating three master, one worker node and loadbalancer node using HAproxy.
 
