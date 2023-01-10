@@ -5,7 +5,6 @@ In this section we are going to create an kubernetes single master and worker no
 
 
 
-
 ## PREREQUISITS
 
 ### Reference
