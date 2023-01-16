@@ -1,6 +1,6 @@
 
 
-# Highly available Stacked Kubernetes cluster creation using kubeadm 
+# Highly available Stacked Kubernetes cluster creation using kubeadm version before 1.26.0
 
 To setup Highly available multimaster kubernetes cluster using kubeadm on the ubuntu 20.04 follow this document.
 
