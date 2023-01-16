@@ -1,5 +1,5 @@
 
-# Kubernetes cluster creation using kubeadm 
+# Kubernetes cluster creation using kubeadm with versions before 1.26.0
 
 In this section we are going to create an kubernetes single master and worker node cluster using kubeadm. We are going to use amazon ec2 as our virtual machine.So we are going to use free tier instances for this demo or else you can use any sort of instance of your choice.
 
